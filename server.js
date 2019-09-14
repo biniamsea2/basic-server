@@ -10,9 +10,9 @@ const PORT = process.env.PORT || 3000;
 
 
 //routes
-// app.get('/', (request, response)=>{
-//     response.redirect('index.html');
-// })
+app.get('/', (request, response)=>{
+    response.redirect('index.html');
+})
 
 app.get('/hello', (request, response) =>{
     response.send('Hello');
