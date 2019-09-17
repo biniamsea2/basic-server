@@ -22,13 +22,16 @@ Finish time: 9:15 pm
 
 Actual time needed to complete: 2 hours and about 20 min 
 
+
 # Portfolio
-Number and name of feature: Feature #2: Modify Contents
+Number and name of feature: Feature #1: Add functionality
 
 Estimate of time needed to complete: 2 hour
 
-Start time: 
+Start time: 230
 
 Finish time:
 
 Actual time needed to complete:
+
+

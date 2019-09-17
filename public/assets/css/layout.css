@@ -2047,7 +2047,7 @@ footer {
 					border: 0;
 				}
 
-					#headerToggle .toggle:before {
+					/* #headerToggle .toggle:before {
 						font-family: FontAwesome;
 						text-decoration: none;
 						font-style: normal;
@@ -2068,7 +2068,7 @@ footer {
 						width: 3.25em;
 						height: 2.25em;
 						line-height: 2.25em;
-					}
+					} */
 
 			body.header-visible #main {
 				-moz-transform: translateX(275px);
@@ -2433,7 +2433,7 @@ footer {
 					border: 0;
 				}
 
-					#headerToggle .toggle:before {
+					/* #headerToggle .toggle:before {
 						font-family: FontAwesome;
 						text-decoration: none;
 						font-style: normal;
@@ -2454,7 +2454,7 @@ footer {
 						width: 3.25em;
 						height: 2.25em;
 						line-height: 2.25em;
-					}
+					} */
 
 			body.header-visible #main {
 				-moz-transform: translateX(275px);

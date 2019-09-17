@@ -81,9 +81,15 @@ body.is-preload *, body.is-preload *:before, body.is-preload *:after {
             background-position: center center;
         }
 
+
+
+        /* backgound image here */
+
         #main > section.one {
             background-color: #81918E;
-            background-image: url("../../images/banner.jpg");
+            background-image: url("../../images/banner.jpg"); 
+            
+
         }
 
         #main > section.two {
